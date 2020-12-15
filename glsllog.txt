@@ -1,0 +1,6 @@
+
+ERROR: 0:14: 'pos' : undeclared identifier 
+ERROR: 0:14: 'y' : field selection requires structure, vector, or matrix on left hand side 
+ERROR: 0:21: 'assign' :  cannot convert from '4X4 matrix of highp float' to 'Position 4-component vector of highp float'
+
+
